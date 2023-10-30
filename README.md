@@ -8,15 +8,13 @@
 <h1></h1>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/Placeholder"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/c/Placeholder"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube/309011DA" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Placeholder"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/Placeholder"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/309011DA" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/Placeholder" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/Placeholder" alt="Discord" title="Dev Pro Tips Discord Server"><img height="32" width="32" src="https://cdn.simpleicons.org/discord/309011DA" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;  
+  <a href="https://ko-fi.com/Placeholder"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/309011DA" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/Placeholder"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/Placeholder"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://Placeholder/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  
 </p>
