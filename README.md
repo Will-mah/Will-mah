@@ -7,14 +7,6 @@
 </p>
 <h1></h1>
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/Placeholder"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube/309011DA" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Placeholder"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/309011DA" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/Placeholder" alt="Discord" title="Dev Pro Tips Discord Server"><img height="32" width="32" src="https://cdn.simpleicons.org/discord/309011DA" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;  
-  <a href="https://ko-fi.com/Placeholder"><img height="32" width="32" src="https://cdn.simpleicons.org/kofi/309011DA" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align="center"> 
   
 </p>
